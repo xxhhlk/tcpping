@@ -34,7 +34,7 @@ The script works on bash, dash and zsh interpreters.
 ## Installation
 
 ```
-sudo curl -o /usr/local/bin/tcpping -L https://raw.githubusercontent.com/deajan/tcpping/master/tcpping ; sudo chmod 755 /usr/local/bin/tcpping
+sudo curl -o /usr/local/bin/tcpping -L https://raw.githubusercontent.com/xxhhlk/tcpping/master/tcpping ; sudo chmod 755 /usr/local/bin/tcpping
 ```
 
 ## Usage
